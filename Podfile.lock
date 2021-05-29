@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.3)
+  - CryptoSwift (1.4.0)
+  - Kingfisher (6.3.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - CryptoSwift (~> 1.4.0)
+  - Kingfisher (~> 6.0)
+  - SnapKit (~> 4.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - Kingfisher
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  CryptoSwift: 7cc902df1784de3b389a387756c7d710f197730c
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 19b93e754e9bdbe888a4f220c174ee02a86ce557
+
+COCOAPODS: 1.10.0

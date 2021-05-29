@@ -1,0 +1,6 @@
+framework module Pods_mChars {
+  umbrella header "Pods-mChars-umbrella.h"
+
+  export *
+  module * { export * }
+}
